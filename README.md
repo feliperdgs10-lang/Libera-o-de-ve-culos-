@@ -1,38 +1,32 @@
-# Libera-o-de-ve-culos-
-Postagem 
-# 🚍 Template de Partidas Liberadas
+# 🚍 Template — Partida Liberada
 
-Este repositório contém o template oficial para postagem de partidas liberadas pelo time de plataforma.
-
----
-
-## 📋 Como usar
-
-1. Acesse o arquivo `template-partida.md`
-2. Copie o conteúdo do template
-3. Cole no grupo do WhatsApp da equipe
-4. Preencha cada campo antes de enviar
-
----
-
-## 📁 Arquivos
-
-| Arquivo | Descrição |
-|---|---|
-| `template-partida.md` | Template oficial para postagem |
-| `exemplo-preenchido.md` | Exemplo com dados fictícios |
-
----
-
-## ✅ Regras de uso
-
-- Sempre preencha **todos os campos**
-- Não altere o formato do template
-- Em caso de dúvida, consulte o exemplo preenchido
-- Sugestões de melhoria? Fale com o gestor da plataforma
-
----
-
-## 📞 Contato
-
-Dúvidas ou sugestões, entre
+```
+🚍 *PARTIDA LIBERADA*
+━━━━━━━━━━━━━━━━━━━━
+🏢 *AGÊNCIA:*
+🔁 *SERVIÇO:*
+🗳️ *CLASSE:*
+📆 *DATA:*
+━━━━━━━━━━━━━━━━━━━━
+➡️ *ORIGEM:*
+➡️ *DESTINO:*
+↘️ *CHEGADA NA ORIGEM:*
+↗️ *SAÍDA DA ORIGEM:*
+━━━━━━━━━━━━━━━━━━━━
+🚌 *CARRO:*
+🚎 *VISUAL DO CARRO:*
+📱 *MONOTRIP:*
+🖥️ *MAPA:*
+━━━━━━━━━━━━━━━━━━━━
+✅ *HORÁRIO PREVISTO:*
+🧑‍💻 *HORÁRIO LUNA:*
+━━━━━━━━━━━━━━━━━━━━
+👨‍✈️ *MOTORISTA TITULAR:*
+🧑🏻‍✈️ *MOTORISTA RESERVA:*
+👩‍✈️ *AGENTE:*
+━━━━━━━━━━━━━━━━━━━━
+👫 *EMBARQUE:*
+👫 *DESEMBARQUE:*
+━━━━━━━━━━━━━━━━━━━━
+👀 *OBS:*
+```
